@@ -1,0 +1,11 @@
+node_modules/
+.expo/
+web-build/
+*.jks
+*.p8
+*.p12
+*.key
+.env
+.DS_Store
+*.pyc
+__pycache__/
